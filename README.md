@@ -45,9 +45,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Certifications
 <div>
-<a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/9965993fae1340b7ba9295dff99507b2" target="_blank">
-<img src="https://img.shields.io/badge/SECURITY%2B-red?style=for-the-badge&logo=comptia&logoColor=white&labelColor=red" />
-</a>
+  <a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/9965993fae1340b7ba9295dff99507b2" target="_blank">
+    <img src="https://comptiacdn.azureedge.net/webcontent/images/default-source/sitecore-files/certifications/security/security-plus-logo.png" alt="CompTIA Security+" height="80"/>
+  </a>
 </div>
 
 ## Projects
