@@ -46,7 +46,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 <div>
   <a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/9965993fae1340b7ba9295dff99507b2" target="_blank">
-   <img src="https://images.credly.com/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png" alt="CompTIA Security+" height="80"/>
+   <img src="https://images.credly.com/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png)" alt="CompTIA Security+" height="80"/>
   </a>
 </div>
 
