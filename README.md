@@ -7,7 +7,7 @@ I am a recent graduate with a profound interest in technology and a dedication t
 I am a current Software Engineer at Fidelity investments and I am looking to pivot into Cybersecurity. I have previously interned in roles of Application and Cloud Security. 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -49,5 +49,5 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- LLM Intrusion Prevention System
+- 
