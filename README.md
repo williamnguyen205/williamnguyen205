@@ -70,5 +70,5 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
 </div>
 
 ## Projects
-- LLM Intrusion Prevention System
-- 
+- Sentinel AI
+- Clarity
