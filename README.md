@@ -8,18 +8,19 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
 
 ## Skills
 
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Skill | Associated Project | Tools Used |
+|---|---|---|
+| Secret scanning & automated remediation | [Fidelity SSDLC script](#) | Python, GitHub, CI/CD |
+| AI-assisted threat detection & log analysis | [SentinelAI](#) | FastAPI, Ollama, Next.js |
+| MITRE ATT&CK threat classification | [SentinelAI](#) | Python, MITRE ATT&CK |
+| AWS cloud security architecture | [AWS threat detection lab](#) | AWS, CloudTrail, GuardDuty |
+| Automated cloud remediation | [AWS remediation lab](#) | Wiz, Lambda, AWS |
+| Secure CI/CD pipeline integration | [SAST pipeline lab](#) | GitHub Actions, Semgrep, Bandit |
+| SIEM & log ingestion pipeline | [SentinelAI](#) | Python, FastAPI, SIEM |
+| Vulnerability management & secure code review | [OWASP CVE writeups](#) | OWASP, CVE analysis |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 ### Network
 <div>
