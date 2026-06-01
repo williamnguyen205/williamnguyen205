@@ -32,8 +32,7 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
 ### Cloud Security
 <div>
     <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS_GuardDuty-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS_CloudTrail-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wiz-00B4E0?&style=for-the-badge&logoColor=white" />
 </div>
 
