@@ -62,6 +62,11 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
    <img src="/assets/security-plus.webp" alt="CompTIA Security+" height="80"/>
   </a>
 </div>
+## Training
+
+<div>
+  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/wnguyen2.png)](https://tryhackme.com/p/wnguyen2)
+</div>
 
 ## Projects
 [![SentinelAI](https://img.shields.io/badge/SentinelAI-View_Project-000000?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/willnguyen24/SentinelAI)
