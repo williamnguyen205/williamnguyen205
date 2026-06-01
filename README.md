@@ -64,9 +64,7 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
 </div>
 ## Training
 
-<div>
-  [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/wnguyen2.png)](https://tryhackme.com/p/wnguyen2)
-</div>
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-wnguyen2-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wnguyen2)
 
 ## Projects
 [![SentinelAI](https://img.shields.io/badge/SentinelAI-View_Project-000000?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/willnguyen24/SentinelAI)
