@@ -40,7 +40,6 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
 ### DevSecOps
 <div>
     <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=GitHubActions&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
     <img src="https://img.shields.io/badge/-ServiceNow-62D84E?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
 </div>
@@ -54,11 +53,8 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
 ### Languages & Frameworks
 <div>
     <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=TypeScript&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=GNUBash&logoColor=white" />
     <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=FastAPI&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?&style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 
 ## Certifications
