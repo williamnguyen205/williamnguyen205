@@ -65,4 +65,4 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
 
 ## Projects
 [![SentinelAI](https://img.shields.io/badge/SentinelAI-View_Project-000000?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/willnguyen24/SentinelAI)
-- Clarity
+[![Clarity](https://img.shields.io/badge/Clarity-View_Project-000000?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/willnguyen24/Clarity)
