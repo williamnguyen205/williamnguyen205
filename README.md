@@ -23,6 +23,7 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
 
 ### Application Security
 <div>
+    <img src="https://img.shields.io/badge/-CodeQL-000000?&style=for-the-badge&logo=GitHub&logoColor=white" />
     <img src="https://img.shields.io/badge/-Semgrep-1B2D3E?&style=for-the-badge&logo=Semgrep&logoColor=white" />
     <img src="https://img.shields.io/badge/-Bandit-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
     <img src="https://img.shields.io/badge/-OWASP_ZAP-00549E?&style=for-the-badge&logo=OWASP&logoColor=white" />
