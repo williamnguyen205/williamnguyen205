@@ -61,10 +61,18 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
   <a href="https://cp.certmetrics.com/comptia/en/public/verify/credential/9965993fae1340b7ba9295dff99507b2" target="_blank">
    <img src="/assets/security-plus.webp" alt="CompTIA Security+" height="80"/>
   </a>
+
 </div>
+
 ## Training
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-wnguyen2-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/wnguyen2)
+<div>
+<a href="https://tryhackme.com/p/wnguyen2">
+  <img src="https://img.shields.io/badge/TryHackMe-wnguyen2-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+</div>
+
+## Projects
 
 ## Projects
 [![SentinelAI](https://img.shields.io/badge/SentinelAI-View_Project-000000?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/willnguyen24/SentinelAI)
