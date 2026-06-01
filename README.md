@@ -40,7 +40,6 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
 <div>
     <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?&style=for-the-badge&logo=GitHubActions&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ServiceNow-62D84E?&style=for-the-badge&logo=ServiceNow&logoColor=white" />
 </div>
 
 ### Detection & Analysis
