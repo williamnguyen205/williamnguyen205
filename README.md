@@ -64,13 +64,7 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
 
 </div>
 
-## Training
 
-<div>
-<a href="https://tryhackme.com/p/wnguyen2">
-  <img src="https://img.shields.io/badge/TryHackMe-wnguyen2-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
-</a>
-</div>
 
 ## Projects
 
