@@ -10,14 +10,14 @@ I am a current Software Engineer at Fidelity investments and I am looking to piv
 
 | Skill | Associated Project | Tools Used |
 |---|---|---|
-| Secret scanning & automated remediation | [Fidelity SSDLC script](#) | Python, GitHub, CI/CD |
+| Secret scanning & automated remediation | [Fidelity Internship](#) | Python, GitHub, CI/CD |
 | AI-assisted threat detection & log analysis | [SentinelAI](#) | FastAPI, Ollama, Next.js |
 | MITRE ATT&CK threat classification | [SentinelAI](#) | Python, MITRE ATT&CK |
-| AWS cloud security architecture | [AWS threat detection lab](#) | AWS, CloudTrail, GuardDuty |
-| Automated cloud remediation | [AWS remediation lab](#) | Wiz, Lambda, AWS |
-| Secure CI/CD pipeline integration | [SAST pipeline lab](#) | GitHub Actions, Semgrep, Bandit |
+| AWS cloud security architecture | [Mary Kay Internship](#) | AWS, CloudTrail, GuardDuty |
+| Automated cloud remediation | [Mary Kay Internship](#) | Wiz, Lambda, AWS |
+| Secure CI/CD pipeline integration | [Mary Kay Internship](#) | GitHub Actions, Semgrep, Bandit |
 | SIEM & log ingestion pipeline | [SentinelAI](#) | Python, FastAPI, SIEM |
-| Vulnerability management & secure code review | [OWASP CVE writeups](#) | OWASP, CVE analysis |
+| Vulnerability management & secure code review | [NPTS Volunteer Work](#) | OWASP, CVE analysis |
 
 ## Tools
 
